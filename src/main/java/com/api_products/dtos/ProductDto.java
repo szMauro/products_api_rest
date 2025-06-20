@@ -3,7 +3,6 @@ package com.api_products.dtos;
 import com.api_products.models.Category;
 import com.api_products.models.ProductState;
 
-import jakarta.persistence.Entity;
 import jakarta.validation.constraints.Min;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
